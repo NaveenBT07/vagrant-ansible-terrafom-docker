@@ -5,3 +5,4 @@
 output "quiz_app_url" {
   value = "http://${var.vm_ip}:${var.app_port}"
 }
+cd 
